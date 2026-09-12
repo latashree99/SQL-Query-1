@@ -13,7 +13,7 @@ This repository contains SQL queries written on the `classicmodels` dataset.
 - **avg_orders_per_customer.sql** → Average orders per customer
 - **orders_shipped_on_time.sql** → Percentage of orders shipped on time
 
-## Purpose
+### Purpose
 These queries demonstrate skills in:
 - Joins
 - Aggregations
