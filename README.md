@@ -1,4 +1,4 @@
-# SQL-Query-1
+# SQL-Query-Netflix
 SQL queries for sales analysis, customer segmentation, and performance evaluation
 
 
